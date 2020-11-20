@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Raleway, Helvetica, sans-serif;
+}
+
+.text-blue{
+    color: #093F7C;
+}
+
+.nav-link-blue{
+    color: #093F7C !important;
+}
+
+.nav-link-blue:hover{
+    color: #031830 !important;
+}
+
+.active{
+    text-decoration: underline #093F7C !important;
+}
+
+.btn-blue{
+    background-color: #093F7C;
+    color: #fff;
+}
+
+.btn-blue:hover{
+    background-color: #031830;
+    color: #fff;
+}
+
+.landing-text{
+    font-size: 38px;
+    opacity: 95%;
+}
+
+.landing-header{
+    font-size: 82px;
+}
+
+.landing-tagline{
+    font-weight: 300;
+}
+
+.service-img{
+    background-position: center;
+    min-height: 200px;
+}
